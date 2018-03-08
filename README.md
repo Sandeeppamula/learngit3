@@ -1,1 +1,3 @@
-README content
+visual path technologies:
+devops
+fullstack
