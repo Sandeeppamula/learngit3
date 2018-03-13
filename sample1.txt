@@ -1,1 +1,3 @@
-This is some text sample file
+
+Sample1 modified by master
+sample1 modified by development
